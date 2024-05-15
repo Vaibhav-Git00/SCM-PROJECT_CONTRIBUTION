@@ -1,0 +1,11 @@
+Types of E-commerce Websites:
+
+1.Business-to-Consumer (B2C): B2C e-commerce involves transactions between businesses and individual consumers. Examples include online retail stores like Amazon, eBay, and Walmart.com.
+
+2.Business-to-Business (B2B): B2B e-commerce platforms facilitate transactions between businesses. These websites cater to wholesalers, manufacturers, and distributors, such as Alibaba and ThomasNet.
+
+3.Consumer-to-Consumer (C2C): C2C e-commerce platforms enable individuals to buy and sell goods or services to each other. Popular examples include eBay, Craigslist, and Facebook Marketplace.
+
+4.Consumer-to-Business (C2B): In C2B e-commerce, individuals offer products or services to businesses. For example, freelance platforms like Upwork and Fiverr connect businesses with freelancers offering various services.
+
+5.Mobile Commerce (M-commerce): M-commerce involves buying and selling goods or services through mobile devices. Many e-commerce websites have dedicated mobile apps or mobile-responsive websites to cater to smartphone users.
